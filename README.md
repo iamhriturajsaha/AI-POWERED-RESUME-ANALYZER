@@ -1,7 +1,7 @@
 # 📄 AI-Powered Resume Analyzer
 
 **Your Intelligent Career Partner**  
-<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> AI-Powered Resume Analyzer is your all-in-one tool to analyze, optimize, and craft resumes that stand out, helping you land your dream job.  
+<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> AI-Powered Resume Analyzer is your all-in-one tool to analyze, optimize and craft resumes that stand out, helping you land your dream job.  
 </div>
  
   
@@ -94,31 +94,31 @@
 
 ## <img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="30px"> **Setup in Minutes**  
 
-Follow these steps to run Smart Resume AI:  
+Follow these steps to run Smart Resume AI -
 
 #### **Setup Instructions** 🛠️
 
-1. **Clone the repository:**
+1. **Clone the repository -**
 
    ```bash
    git clone https://github.com/iamhriturajsaha/AI-POWERED-RESUME-ANALYZER.git
    cd AI-POWERED-RESUME-ANALYZER
    ```
 
-2. **Create a virtual environment:**
+2. **Create a virtual environment -**
 
    ```bash
    python -m venv venv
    source venv/bin/activate
    ```
 
-3. **Install dependencies:**
+3. **Install dependencies -**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Download the spaCy model:**
+4. **Download the spaCy model -**
 
    ```bash
    python -m spacy download en_core_web_sm
@@ -126,7 +126,7 @@ Follow these steps to run Smart Resume AI:
    
 ``Congratulations 🥳😱 your set-up 👆 and installation is finished 🥳😱``
 
-5. **Run the application:**
+5. **Run the application -**
 
    ```bash
    streamlit run app.py
