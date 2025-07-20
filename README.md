@@ -5,7 +5,7 @@
 </div>
  
   
-## <img src="https://github.com/user-attachments/assets/a6e4d77f-56d6-4aa8-8278-0f5a18ef5eb9" width="24px"> **What Makes Us Different?**  
+## <img src="https://github.com/user-attachments/assets/a6e4d77f-56d6-4aa8-8278-0f5a18ef5eb9" width="24px"> **What Makes It Different?**  
 
 **<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Next-Level Features for Success:**  
 1. 🕵️ **Deep Resume Analysis:**  
@@ -101,8 +101,8 @@ Follow these steps to run Smart Resume AI:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/iamhriturajsaha/AI-RESUME-ANALYZER.git
-   cd AI-RESUME-ANALYZER
+   git clone https://github.com/iamhriturajsaha/AI-POWERED-RESUME-ANALYZER.git
+   cd AI-POWERED-RESUME-ANALYZER
    ```
 
 2. **Create a virtual environment:**
@@ -132,7 +132,7 @@ Follow these steps to run Smart Resume AI:
    streamlit run app.py
    ```
 
-## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Features That Set Us Apart**  
+## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Features That Set It Apart**  
 
 | **Feature**                   | **Description**                                                                                 |  
 |--------------------------------|-------------------------------------------------------------------------------------------------|  
@@ -221,4 +221,3 @@ Follow these steps to run Smart Resume AI:
 </tr>  
 </table>  
 </div>  
-
