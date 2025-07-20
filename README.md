@@ -7,20 +7,20 @@
   
 ## <img src="https://github.com/user-attachments/assets/a6e4d77f-56d6-4aa8-8278-0f5a18ef5eb9" width="24px"> **What Makes It Different?**  
 
-**<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Next-Level Features for Success:**  
-1. 🕵️ **Deep Resume Analysis:**  
+**<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Next-Level Features for Success -**  
+1. 🕵️ **Deep Resume Analysis -**  
    - 🛡️ ATS Compatibility Score  
    - 🔑 Keyword Gap Analysis  
    - 🧩 Role-specific Feedback  
    - 📊 Skills Gap Breakdown  
 
-2. 🎨 **AI-Powered Resume Builder:**  
+2. 🎨 **AI-Powered Resume Builder -**  
    - **Themes that Shine** (Modern, Minimal, Professional, Creative)  
    - **Smart Content Suggestions**  
    - **ATS-Optimized Formatting**  
    - **Customizable Sections**  
 
-3. 🤖 **AI Optimization Engine:**  
+3. 🤖 **AI Optimization Engine -**  
    - 💡 Keyword Highlighting  
    - ✍️ Content Enhancement Tips  
    - 🌟 Industry-Specific Insights  
@@ -81,9 +81,9 @@
    - Import your resume in **PDF/Word** or create one from scratch with our AI-powered builder.  
 
 2. **Analyze Your Resume**  
-   - **ATS Compatibility**: Ensure your resume meets recruiter expectations.  
-   - **Keyword Insights**: Find and fill gaps in your content.  
-   - **Skills Gap Analysis**: Discover key skills missing for your target role.  
+   - **ATS Compatibility** - Ensure your resume meets recruiter expectations.  
+   - **Keyword Insights** - Find and fill gaps in your content.  
+   - **Skills Gap Analysis** - Discover key skills missing for your target role.  
 
 3. **Build a Stunning Resume**  
    - Select from **4 unique templates** and customize sections like skills, achievements, or hobbies.  
