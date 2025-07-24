@@ -4,29 +4,25 @@
 <img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> AI-Powered Resume Analyzer is your all-in-one tool to analyze, optimize and craft resumes that stand out, helping you land your dream job.  
 </div>
  
-  
 ## <img src="https://github.com/user-attachments/assets/a6e4d77f-56d6-4aa8-8278-0f5a18ef5eb9" width="24px"> **What Makes It Different?**  
 
 **<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Next-Level Features for Success -**  
 1. 🕵️ **Deep Resume Analysis -**  
-   - 🛡️ ATS Compatibility Score  
-   - 🔑 Keyword Gap Analysis  
-   - 🧩 Role-specific Feedback  
-   - 📊 Skills Gap Breakdown  
+   - ATS Compatibility Score  
+   - Keyword Gap Analysis  
+   - Role-specific Feedback  
+   - Skills Gap Breakdown  
 
 2. 🎨 **AI-Powered Resume Builder -**  
-   - **Themes that Shine** (Modern, Minimal, Professional, Creative)  
-   - **Smart Content Suggestions**  
-   - **ATS-Optimized Formatting**  
-   - **Customizable Sections**  
+   - Themes that Shine (Modern, Minimal, Professional, Creative)  
+   - Smart Content Suggestions  
+   - ATS-Optimized Formatting  
+   - Customizable Sections  
 
 3. 🤖 **AI Optimization Engine -**  
-   - 💡 Keyword Highlighting  
-   - ✍️ Content Enhancement Tips  
-   - 🌟 Industry-Specific Insights  
-
-
-
+   - Keyword Highlighting  
+   - Content Enhancement Tips  
+   - Industry-Specific Insights  
 
 ## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack 
 <details>
@@ -91,7 +87,6 @@
 4. **Download & Apply**  
    - Export your resume in **PDF** format, ready for submission.  
 
-
 ## <img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="30px"> **Setup in Minutes**  
 
 Follow these steps to run Smart Resume AI -
@@ -123,8 +118,6 @@ Follow these steps to run Smart Resume AI -
    ```bash
    python -m spacy download en_core_web_sm
    ```
-   
-``Congratulations 🥳😱 your set-up 👆 and installation is finished 🥳😱``
 
 5. **Run the application -**
 
@@ -137,7 +130,7 @@ Follow these steps to run Smart Resume AI -
 | **Feature**                   | **Description**                                                                                 |  
 |--------------------------------|-------------------------------------------------------------------------------------------------|  
 | 🔍 **Resume Analysis**         | Get an ATS score, identify keyword gaps, and find skills to add for role alignment.             |  
-| ✨ **Customizable Templates**  | Choose from **4 sleek designs**: Modern, Minimal, Professional, Creative.                       |  
+| ✨ **Customizable Templates**  | Choose from **4 sleek designs** - Modern, Minimal, Professional, Creative.                       |  
 | 📈 **AI-Driven Insights**      | Receive smart suggestions for optimizing content, formatting, and keywords.                    |  
 | 🎯 **Role-specific Guidance**  | Tailored recommendations for matching job descriptions and standing out in applications.        |  
 
@@ -147,7 +140,6 @@ Follow these steps to run Smart Resume AI -
 <table>  
 <tr>  
 <td align="center"><b>
-   
    
    </b></td>  
 <td align="center"><b>
