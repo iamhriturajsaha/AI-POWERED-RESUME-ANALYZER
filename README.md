@@ -1,4 +1,4 @@
-# 📄 AI-Powered Resume Analyzer
+# 📝AI-Powered Resume Analyzer
 
 **Your Intelligent Career Partner**  
 <img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> AI-Powered Resume Analyzer is your all-in-one tool to analyze, optimize and craft resumes that stand out, helping you land your dream job.  
